@@ -92,8 +92,8 @@ if __name__ == '__main__':
 
     #print(classify_image(get_b64_test_image_for_virat(), None))
 
-    print(classify_image(None, "./server/test_images/messi1.jpg"))
-    print(classify_image(None, "./server/test_images/virat1.jpg"))
-    print(classify_image(None, "./server/test_images/CR72.png"))
+    #print(classify_image(None, "./server/test_images/messi1.jpg"))
+    #print(classify_image(None, "./server/test_images/virat1.jpg"))
+    #print(classify_image(None, "./server/test_images/CR72.png"))
     # print(classify_image(None, "./test_images/virat2.jpg"))
     # print(classify_image(None, "./test_images/virat3.jpg")) # Inconsistent result could be due to https://github.com/scikit-learn/scikit-learn/issues/13211
